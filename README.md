@@ -187,4 +187,4 @@ The analysis highlights how **time, weather, and user type** influence bike rent
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+## ⭐ If you found this project useful, consider it for evaluation!
