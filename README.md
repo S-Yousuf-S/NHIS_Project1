@@ -1,4 +1,4 @@
-# NHIS_Project1: Bike Rental Demand Insights\
+# NHIS_Project1: Bike Rental Demand Insights
 
 This Project is about the data analysis of "Rental Bike Sharing" datasets.
 
