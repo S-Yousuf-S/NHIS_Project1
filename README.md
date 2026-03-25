@@ -41,7 +41,7 @@ The project uses multiple datasets which were processed and combined to create a
 ### 2. Appending Data
 
 * Dataset_3 appended to merged dataset
-* Result: **Dataset_Final_YS_v1.2**
+* Result: **Dataset_Final_YS_v1.3**
 * 1000 rows, 16 columns
 
 ### 3. Feature Engineering
